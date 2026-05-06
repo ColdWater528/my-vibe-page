@@ -1,0 +1,12 @@
+[       5ms] [WARNING] document.domain mutation is ignored because the surrounding agent cluster is origin-keyed. @ https://music.163.com/:41
+[     313ms] [WARNING] document.domain mutation is ignored because the surrounding agent cluster is origin-keyed. @ https://music.163.com/user/home?id=5138152592:36
+[     395ms] [LOG] {data: Array(10), code: 200} @ https://s3.music.126.net/web/s/core_bc42e8fa60eb5f1b67f0cec2b84f3c58.js?bc42e8fa60eb5f1b67f0cec2b84f3c58:143
+[     516ms] [WARNING] document.domain mutation is ignored because the surrounding agent cluster is origin-keyed. @ https://st.music.163.com/g/ct-web-login/ctWebLogin.main.0.3.7.8054f32a.js:0
+[     525ms] [WARNING] document.domain mutation is ignored because the surrounding agent cluster is origin-keyed. @ https://st.music.163.com/g/ct-web-login/ctWebLogin.main.0.3.7.8054f32a.js:0
+[    1421ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ https://st.music.163.com/device/signature/create/deviceid.js:0
+[    1421ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ https://st.music.163.com/device/signature/create/deviceid.js:0
+[    1422ms] [WARNING] WebGL: INVALID_OPERATION: drawArrays: no valid shader program in use @ https://st.music.163.com/device/signature/create/deviceid.js:0
+[    1749ms] [LOG] PiP worker render @ https://music.163.com/st/pip/lyric/inject.js:40
+[    2098ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ https://st.music.163.com/device/signature/create/deviceid.js:0
+[    2098ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ https://st.music.163.com/device/signature/create/deviceid.js:0
+[    2098ms] [WARNING] WebGL: INVALID_OPERATION: drawArrays: no valid shader program in use @ https://st.music.163.com/device/signature/create/deviceid.js:0

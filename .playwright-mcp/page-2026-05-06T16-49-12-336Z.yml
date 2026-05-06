@@ -1,0 +1,56 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e4]:
+      - paragraph [ref=e5]: Vibe Coding
+      - heading "用 Vibe Coding 的方式， 把想法变成属于我的 数字角落" [level=1] [ref=e6]:
+        - text: 用 Vibe Coding 的方式，
+        - text: 把想法变成属于我的
+        - text: 数字角落
+      - paragraph [ref=e7]: 一个安静的空间，记录我所热爱的一切。
+    - generic [ref=e11]:
+      - generic [ref=e12]:
+        - paragraph [ref=e13]: 找到我
+        - generic [ref=e14]:
+          - link "GitHub ColdWater528" [ref=e15] [cursor=pointer]:
+            - /url: https://github.com/ColdWater528
+            - img [ref=e17]
+            - generic [ref=e19]:
+              - paragraph [ref=e20]: GitHub
+              - paragraph [ref=e21]: ColdWater528
+          - link "Email 2018104032@qq.com" [ref=e22] [cursor=pointer]:
+            - /url: mailto:2018104032@qq.com
+            - img [ref=e24]
+            - generic [ref=e26]:
+              - paragraph [ref=e27]: Email
+              - paragraph [ref=e28]: 2018104032@qq.com
+          - link "网易云音乐 5138152592" [ref=e29] [cursor=pointer]:
+            - /url: https://music.163.com/#/user/home?id=5138152592
+            - img [ref=e31]
+            - generic [ref=e33]:
+              - paragraph [ref=e34]: 网易云音乐
+              - paragraph [ref=e35]: "5138152592"
+      - generic [ref=e36]:
+        - paragraph [ref=e37]: 兴趣标签
+        - generic [ref=e38]:
+          - button "🎮 游戏" [ref=e39]:
+            - generic [ref=e41]: 🎮
+            - generic [ref=e42]: 游戏
+          - button "🎵 音乐" [ref=e43]:
+            - generic [ref=e45]: 🎵
+            - generic [ref=e46]: 音乐
+          - button "⚽ 运动" [ref=e47]:
+            - generic [ref=e49]: ⚽
+            - generic [ref=e50]: 运动
+      - paragraph [ref=e52]: 最近在听
+      - generic [ref=e59]:
+        - paragraph [ref=e60]: 足迹地图
+        - img [ref=e62]:
+          - generic [ref=e118]: 已点亮
+      - generic [ref=e119]:
+        - paragraph [ref=e120]: 相册
+        - generic [ref=e121]: 加载中...
+    - generic [ref=e127]: 定位中...
+    - contentinfo [ref=e128]:
+      - paragraph [ref=e129]: Made with vibe · 2026
+  - button "Open Next.js Dev Tools" [ref=e135] [cursor=pointer]:
+    - img [ref=e136]

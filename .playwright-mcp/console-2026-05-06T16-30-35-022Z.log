@@ -1,0 +1,236 @@
+[     149ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3456/_next/static/chunks/node_modules_next_dist_115brz8._.js:2431
+[     261ms] [LOG] [HMR] connected @ http://localhost:3456/_next/static/chunks/node_modules_next_dist_115brz8._.js:2431
+[     322ms] [ERROR] A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <RedirectErrorBoundary router={{...}}>
+      <InnerLayoutRouter url="/" tree={[...]} params={{}} cacheNode={{rsc:{...}, ...}} segmentPath={[...]} ...>
+        <SegmentViewNode type="page" pagePath="page.tsx">
+          <SegmentTrieNode>
+          <Home>
+            <div className="pb-32">
+              <Hero>
+              <div className="space-y-0">
+                <SocialCards>
+                <InterestTags>
+                <MusicCard>
+                <FootprintMap>
+                  <section className="px-6 max-w...">
+                    <motion.p>
+                    <motion.div className="glass roun..." initial={{opacity:0,y:20}} whileInView={{opacity:1,y:0}} ...>
+                      <div className="glass roun..." style={{opacity:0, ...}} ref={function useMotionRef.useCallback}>
+                        <svg viewBox="0 0 800 500" className="w-full h-auto" fill="none" xmlns="http://www...">
+                          <path>
+                          <path>
+                          <path>
+                          <path>
+                          <path>
+                          <path>
+                          <path>
+                          <path>
+                          <path>
+                          <line>
+                          <line>
+                          <line>
+                          <line>
+                          <line>
+                          <line>
+                          <line>
+                          <line>
+                          <line>
+                          <line>
+                          <line>
+                          <line>
+                          <line>
+                          <line>
+                          <line>
+                          <line>
+                          <g>
+                            <circle>
+                            <circle
+                              cx={510}
+                              cy={265}
+                              r={2}
+                              fill="#64d2ff"
+                              className="animate-pulse-dot"
+                              style={{
++                               animationDelay: "0.8958181694263132s"
+-                               animation-delay: "0.186241s"
+                              }}
+                            >
+                            ...
+                          <g>
+                            <circle>
+                            <circle
+                              cx={548}
+                              cy={248}
+                              r={2}
+                              fill="#64d2ff"
+                              className="animate-pulse-dot"
+                              style={{
++                               animationDelay: "0.31710746366746423s"
+-                               animation-delay: "1.39181s"
+                              }}
+                            >
+                            ...
+                          <g>
+                            <circle>
+                            <circle
+                              cx={543}
+                              cy={249}
+                              r={2}
+                              fill="#64d2ff"
+                              className="animate-pulse-dot"
+                              style={{
++                               animationDelay: "1.29745481923672s"
+-                               animation-delay: "0.999599s"
+                              }}
+                            >
+                            ...
+                          <g>
+                            <circle>
+                            <circle
+                              cx={555}
+                              cy={298}
+                              r={2}
+                              fill="#64d2ff"
+                              className="animate-pulse-dot"
+                              style={{
++                               animationDelay: "0.2740181969974502s"
+-                               animation-delay: "0.654398s"
+                              }}
+                            >
+                            ...
+                          <g>
+                            <circle>
+                            <circle
+                              cx={551}
+                              cy={296}
+                              r={2}
+                              fill="#64d2ff"
+                              className="animate-pulse-dot"
+                              style={{
++                               animationDelay: "0.4846596131861747s"
+-                               animation-delay: "1.86783s"
+                              }}
+                            >
+                            ...
+                          <g>
+                            <circle>
+                            <circle
+                              cx={526}
+                              cy={251}
+                              r={2}
+                              fill="#64d2ff"
+                              className="animate-pulse-dot"
+                              style={{
++                               animationDelay: "1.6978132108475545s"
+-                               animation-delay: "0.435882s"
+                              }}
+                            >
+                            ...
+                          <g>
+                            <circle>
+                            <circle
+                              cx={553}
+                              cy={242}
+                              r={2}
+                              fill="#64d2ff"
+                              className="animate-pulse-dot"
+                              style={{
++                               animationDelay: "1.484556938311767s"
+-                               animation-delay: "0.547671s"
+                              }}
+                            >
+                            ...
+                          <g>
+                            <circle>
+                            <circle
+                              cx={569}
+                              cy={258}
+                              r={2}
+                              fill="#64d2ff"
+                              className="animate-pulse-dot"
+                              style={{
++                               animationDelay: "1.4533487955507516s"
+-                               animation-delay: "0.195574s"
+                              }}
+                            >
+                            ...
+                          <g>
+                            <circle>
+                            <circle
+                              cx={574}
+                              cy={240}
+                              r={2}
+                              fill="#64d2ff"
+                              className="animate-pulse-dot"
+                              style={{
++                               animationDelay: "0.9837471266733906s"
+-                               animation-delay: "1.5018s"
+                              }}
+                            >
+                            ...
+                          <g>
+                            <circle>
+                            <circle
+                              cx={539}
+                              cy={221}
+                              r={2}
+                              fill="#64d2ff"
+                              className="animate-pulse-dot"
+                              style={{
++                               animationDelay: "1.0287931560142307s"
+-                               animation-delay: "1.95455s"
+                              }}
+                            >
+                            ...
+                          <g>
+                            <circle>
+                            <circle
+                              cx={564}
+                              cy={245}
+                              r={2}
+                              fill="#64d2ff"
+                              className="animate-pulse-dot"
+                              style={{
++                               animationDelay: "1.5093293757604458s"
+-                               animation-delay: "0.345181s"
+                              }}
+                            >
+                            ...
+                          ...
+                ...
+              ...
+        ...
+      ...
+ @ http://localhost:3456/_next/static/chunks/node_modules_next_dist_115brz8._.js:3272
+[     469ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3456/_next/static/chunks/node_modules_next_dist_115brz8._.js:2431
+[     499ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://p2.music.126.net/2r5N6P9F4X0yS8iK0aM3Cx==/109951163213021458.jpg:0
+[     511ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://p2.music.126.net/6y-UleORqC7qEoqQr9F1nA==/109951163213021455.jpg:0
+[     513ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://p2.music.126.net/8V9Z0jLq4bE8o9Qf2K7x1w==/109951163213022045.jpg:0
+[     513ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://p2.music.126.net/1q4M5O8E3W0xR7hJ9L2aBw==/109951163213021457.jpg:0
+[     517ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://p2.music.126.net/aGf8nY1eBm9N5xR0kX7j2w==/109951163213021456.jpg:0
+[     781ms] [LOG] [Fast Refresh] done in 416ms @ http://localhost:3456/_next/static/chunks/node_modules_next_dist_115brz8._.js:2431
+[   50853ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3456/_next/static/chunks/node_modules_next_dist_115brz8._.js:2431
+[   50931ms] [LOG] [Fast Refresh] done in 34ms @ http://localhost:3456/_next/static/chunks/node_modules_next_dist_115brz8._.js:2431
+[   70036ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3456/_next/static/chunks/node_modules_next_dist_115brz8._.js:2431
+[   70115ms] [LOG] [Fast Refresh] done in 50ms @ http://localhost:3456/_next/static/chunks/node_modules_next_dist_115brz8._.js:2431
+[   97564ms] [INFO] Launched external handler for 'mailto:2018104032@qq.com'. @ http://localhost:3456/:0
+[  165195ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3456/_next/static/chunks/node_modules_next_dist_115brz8._.js:2431
+[  165212ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://p2.music.126.net/8V9Z0jLq4bE8o9Qf2K7x1w==/109951163213022045.jpg:0
+[  165212ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://p2.music.126.net/6y-UleORqC7qEoqQr9F1nA==/109951163213021455.jpg:0
+[  165212ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://p2.music.126.net/aGf8nY1eBm9N5xR0kX7j2w==/109951163213021456.jpg:0
+[  165212ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://p2.music.126.net/1q4M5O8E3W0xR7hJ9L2aBw==/109951163213021457.jpg:0
+[  165212ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://p2.music.126.net/2r5N6P9F4X0yS8iK0aM3Cx==/109951163213021458.jpg:0
+[  165275ms] [LOG] [Fast Refresh] done in 30ms @ http://localhost:3456/_next/static/chunks/node_modules_next_dist_115brz8._.js:2431

@@ -1,0 +1,37 @@
+[
+  {
+    "name": "晴天",
+    "artist": "周杰伦",
+    "album": "叶惠美",
+    "cover": "https://p2.music.126.net/8V9Z0jLq4bE8o9Qf2K7x1w==/109951163213022045.jpg",
+    "url": "https://music.163.com/song?id=186016"
+  },
+  {
+    "name": "夜曲",
+    "artist": "周杰伦",
+    "album": "十一月的萧邦",
+    "cover": "https://p2.music.126.net/6y-UleORqC7qEoqQr9F1nA==/109951163213021455.jpg",
+    "url": "https://music.163.com/song?id=186001"
+  },
+  {
+    "name": "Lose Yourself",
+    "artist": "Eminem",
+    "album": "8 Mile",
+    "cover": "https://p2.music.126.net/aGf8nY1eBm9N5xR0kX7j2w==/109951163213021456.jpg",
+    "url": "https://music.163.com/song?id=5050434"
+  },
+  {
+    "name": "Shape of You",
+    "artist": "Ed Sheeran",
+    "album": "÷",
+    "cover": "https://p2.music.126.net/1q4M5O8E3W0xR7hJ9L2aBw==/109951163213021457.jpg",
+    "url": "https://music.163.com/song?id=451703096"
+  },
+  {
+    "name": "Blinding Lights",
+    "artist": "The Weeknd",
+    "album": "After Hours",
+    "cover": "https://p2.music.126.net/2r5N6P9F4X0yS8iK0aM3Cx==/109951163213021458.jpg",
+    "url": "https://music.163.com/song?id=1429339100"
+  }
+]
