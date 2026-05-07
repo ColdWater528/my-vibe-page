@@ -1,3 +1,6 @@
 name = "my-vibe-page"
-pages_build_output_dir = ".vercel/output/static"
+main = ".vercel/output/static/_worker.js"
 compatibility_flags = ["nodejs_compat"]
+
+[site]
+bucket = ".vercel/output/static"
