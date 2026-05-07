@@ -3,15 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "prebuild": "node scripts/generate-photos-manifest.mjs",
-    "build": "npx @cloudflare/next-on-pages@1",
-    "dev": "npm run prebuild && next dev",
+    "dev": "next dev",
+    "build": "next build",
     "start": "next start",
-    "lint": "eslint",
-    "preview": "opennextjs-cloudflare build && opennextjs-cloudflare preview",
-    "deploy": "opennextjs-cloudflare build && opennextjs-cloudflare deploy",
-    "upload": "opennextjs-cloudflare build && opennextjs-cloudflare upload",
-    "cf-typegen": "wrangler types --env-interface CloudflareEnv cloudflare-env.d.ts"
+    "lint": "next lint",
+    "pages:build": "npx @cloudflare/next-on-pages@1"
   },
   "dependencies": {
     "framer-motion": "^12.38.0",
