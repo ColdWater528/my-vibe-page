@@ -1,5 +1,4 @@
-// Cloudflare Pages provides cf object on every request
-// With @opennextjs/cloudflare, all API routes run on Workers (edge)
+export const runtime = "edge";
 
 const COUNTRY_FLAGS: Record<string, string> = {
   CN: "🇨🇳",
