@@ -4,9 +4,9 @@ import { motion } from "framer-motion";
 import { useState } from "react";
 
 const tags = [
-  { label: "游戏", icon: "🎮", color: "from-violet-500/10 to-purple-500/5" },
-  { label: "音乐", icon: "🎵", color: "from-pink-500/10 to-rose-500/5" },
-  { label: "运动", icon: "⚽", color: "from-emerald-500/10 to-teal-500/5" },
+  { label: "游戏", icon: "🎮", color: "from-violet-500/5 to-purple-500/5" },
+  { label: "音乐", icon: "🎵", color: "from-pink-500/5 to-rose-500/5" },
+  { label: "运动", icon: "⚽", color: "from-emerald-500/5 to-teal-500/5" },
 ];
 
 export default function InterestTags() {
@@ -15,7 +15,7 @@ export default function InterestTags() {
   return (
     <section className="px-6 max-w-4xl mx-auto mt-20">
       <motion.p
-        className="text-xs font-medium tracking-widest text-[#86868b] mb-5 uppercase text-center"
+        className="text-xs font-medium tracking-widest text-[#6e6e73] mb-5 uppercase text-center"
         initial={{ opacity: 0 }}
         whileInView={{ opacity: 1 }}
         viewport={{ once: true, margin: "-50px" }}

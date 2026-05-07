@@ -24,7 +24,7 @@ export default function PhotoGallery() {
   return (
     <section className="px-6 max-w-4xl mx-auto mt-20">
       <motion.p
-        className="text-xs font-medium tracking-widest text-[#86868b] mb-5 uppercase text-center"
+        className="text-xs font-medium tracking-widest text-[#6e6e73] mb-5 uppercase text-center"
         initial={{ opacity: 0 }}
         whileInView={{ opacity: 1 }}
         viewport={{ once: true, margin: "-50px" }}
@@ -32,7 +32,7 @@ export default function PhotoGallery() {
         相册
       </motion.p>
       {loading ? (
-        <div className="glass rounded-3xl p-12 text-center text-[#86868b] text-sm">
+        <div className="glass rounded-3xl p-12 text-center text-[#6e6e73] text-sm">
           加载中...
         </div>
       ) : (

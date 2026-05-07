@@ -41,14 +41,14 @@ export default function LiveLocation() {
           <div className="absolute inset-0 rounded-full bg-emerald-400 animate-ping opacity-75" />
         </motion.div>
         {loading ? (
-          <span className="text-xs text-[#86868b]">定位中...</span>
+          <span className="text-xs text-[#6e6e73]">定位中...</span>
         ) : location ? (
           <span className="text-xs font-medium">
-            <span className="text-[#86868b]">访客来自 </span>
+            <span className="text-[#6e6e73]">访客来自 </span>
             {location.flag} {location.region || location.country}
           </span>
         ) : (
-          <span className="text-xs text-[#86868b]">无法获取位置</span>
+          <span className="text-xs text-[#6e6e73]">无法获取位置</span>
         )}
       </div>
     </motion.div>
