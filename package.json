@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "prebuild": "node scripts/generate-photos-manifest.mjs",
-    "build": "npm run prebuild && next build",
+    "build": "npx @cloudflare/next-on-pages@1",
     "dev": "npm run prebuild && next dev",
     "start": "next start",
     "lint": "eslint",
