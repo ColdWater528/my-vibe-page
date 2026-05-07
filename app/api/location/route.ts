@@ -1,5 +1,3 @@
-export const runtime = "edge";
-
 const COUNTRY_FLAGS: Record<string, string> = {
   CN: "🇨🇳",
   US: "🇺🇸",
