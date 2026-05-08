@@ -1,9 +1,12 @@
 // Fetches recent songs from NetEase Cloud Music and writes to public/data/music.json
 // Expects environment variable NETEASE_USER_ID to be set
 
-const netease = require("NeteaseCloudMusicApi");
-const fs = require("fs");
-const path = require("path");
+import fs from "node:fs";
+import path from "node:path";
+import { fileURLToPath } from "node:url";
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 const USER_ID = process.env.NETEASE_USER_ID || "5138152592";
 
@@ -11,16 +14,17 @@ async function main() {
   console.log(`Fetching music data for user: ${USER_ID}`);
 
   try {
+    const netease = (await import("NeteaseCloudMusicApi")).default;
+
     // Get user's recently played songs
     const result = await netease.user_record({
       uid: USER_ID,
-      type: 0, // 0 = all, 1 = weekly
+      type: 1, // 1 = weekly (recent), 0 = all-time
     });
 
     const raw = result.body;
 
-    // Extract recent weekly songs, fallback to all songs
-    const rawSongs = raw?.weekData || raw?.allData || [];
+    const rawSongs = raw?.weekData || [];
 
     const songs = rawSongs.slice(0, 10).map((item) => ({
       name: item.song?.name || "未知歌曲",

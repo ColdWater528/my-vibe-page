@@ -1,7 +1,6 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { useState } from "react";
 
 interface City {
   name: string;
@@ -9,23 +8,24 @@ interface City {
   y: number;
 }
 
+// Coordinates: x = (lon-73)/62*520+40, y = (54-lat)/36*440+25
 const cities: City[] = [
-  { name: "成都", x: 510, y: 265 },
-  { name: "郑州", x: 548, y: 248 },
-  { name: "洛阳", x: 543, y: 249 },
-  { name: "深圳", x: 555, y: 298 },
-  { name: "广州", x: 551, y: 296 },
-  { name: "西安", x: 526, y: 251 },
-  { name: "濮阳", x: 553, y: 242 },
-  { name: "镇江", x: 569, y: 258 },
-  { name: "青岛", x: 574, y: 240 },
-  { name: "呼和浩特", x: 539, y: 221 },
-  { name: "泰安", x: 564, y: 245 },
+  { name: "成都", x: 299, y: 332 },
+  { name: "郑州", x: 380, y: 277 },
+  { name: "洛阳", x: 370, y: 279 },
+  { name: "深圳", x: 383, y: 433 },
+  { name: "广州", x: 377, y: 425 },
+  { name: "西安", x: 340, y: 283 },
+  { name: "濮阳", x: 392, y: 264 },
+  { name: "镇江", x: 430, y: 310 },
+  { name: "青岛", x: 438, y: 261 },
+  { name: "呼和浩特", x: 365, y: 201 },
+  { name: "泰安", x: 410, y: 259 },
 ];
 
-export default function FootprintMap({ embedded }: { embedded?: boolean }) {
-  const [hovered, setHovered] = useState<string | null>(null);
+const currentCity = "郑州";
 
+export default function FootprintMap({ embedded }: { embedded?: boolean }) {
   const content = (
     <>
       <motion.p
@@ -37,165 +37,160 @@ export default function FootprintMap({ embedded }: { embedded?: boolean }) {
         足迹地图
       </motion.p>
       <motion.div
-        className="glass rounded-2xl p-4 overflow-hidden"
+        className="glass rounded-2xl overflow-hidden"
         initial={{ opacity: 0, y: 20 }}
         whileInView={{ opacity: 1, y: 0 }}
         viewport={{ once: true, margin: "-50px" }}
         transition={{ duration: 0.5 }}
         whileHover={{ y: -4 }}
       >
-        <svg
-          viewBox="0 0 800 500"
-          className="w-full h-auto"
-          fill="none"
-          xmlns="http://www.w3.org/2000/svg"
-        >
-          {/* Eurasia */}
-          <path
-            d="M440 90 L470 80 L500 75 L530 78 L560 82 L580 85 L600 90 L620 85 L640 80 L660 85 L680 90 L700 95 L710 105 L715 115 L720 125 L710 130 L700 125 L680 120 L660 115 L640 110 L620 108 L600 105 L580 110 L560 115 L540 120 L520 125 L500 130 L480 135 L460 140 L445 145 L430 150 L420 145 L425 135 L430 120 L435 105 L440 90Z"
-            fill="rgba(0,0,0,0.02)"
-            stroke="rgba(0,0,0,0.08)"
-            strokeWidth="1"
-          />
-          {/* Europe */}
-          <path
-            d="M355 130 L370 120 L385 115 L400 118 L415 120 L425 125 L430 130 L425 140 L420 145 L415 150 L410 155 L400 150 L390 148 L380 145 L370 142 L360 138 L355 130Z"
-            fill="rgba(0,0,0,0.02)"
-            stroke="rgba(0,0,0,0.08)"
-            strokeWidth="1"
-          />
-          {/* Africa */}
-          <path
-            d="M370 180 L390 175 L410 170 L425 175 L435 185 L440 200 L440 215 L435 235 L425 255 L415 270 L405 285 L395 295 L385 290 L375 275 L368 260 L362 245 L358 230 L355 215 L355 200 L360 190 L370 180Z"
-            fill="rgba(0,0,0,0.02)"
-            stroke="rgba(0,0,0,0.08)"
-            strokeWidth="1"
-          />
-          {/* North America */}
-          <path
-            d="M100 140 L120 130 L140 120 L160 115 L180 110 L200 108 L220 110 L240 115 L250 120 L255 125 L250 130 L245 135 L240 140 L235 145 L225 150 L215 155 L205 160 L195 165 L185 160 L175 155 L165 150 L155 145 L145 140 L135 145 L125 150 L115 155 L105 150 L100 140Z"
-            fill="rgba(0,0,0,0.02)"
-            stroke="rgba(0,0,0,0.08)"
-            strokeWidth="1"
-          />
-          {/* South America */}
-          <path
-            d="M215 310 L225 305 L235 300 L240 310 L245 320 L240 335 L235 350 L230 365 L225 380 L220 395 L215 405 L210 395 L205 380 L200 365 L198 350 L200 335 L205 320 L210 310 L215 310Z"
-            fill="rgba(0,0,0,0.02)"
-            stroke="rgba(0,0,0,0.08)"
-            strokeWidth="1"
-          />
-          {/* Southeast Asia */}
-          <path
-            d="M580 145 L600 140 L615 145 L625 155 L630 165 L625 170 L615 168 L605 165 L595 160 L585 155 L580 145Z"
-            fill="rgba(0,0,0,0.02)"
-            stroke="rgba(0,0,0,0.08)"
-            strokeWidth="1"
-          />
-          {/* Australia */}
-          <path
-            d="M610 310 L630 300 L650 295 L665 300 L675 310 L680 325 L675 340 L665 350 L650 355 L635 350 L625 340 L618 325 L610 310Z"
-            fill="rgba(0,0,0,0.02)"
-            stroke="rgba(0,0,0,0.08)"
-            strokeWidth="1"
-          />
-          {/* Japan */}
-          <path
-            d="M700 125 L705 130 L708 140 L705 150 L700 155 L695 150 L693 140 L695 130 L700 125Z"
-            fill="rgba(0,0,0,0.02)"
-            stroke="rgba(0,0,0,0.08)"
-            strokeWidth="1"
-          />
-          {/* Grid lines */}
-          {[0, 1, 2, 3, 4, 5, 6, 7, 8].map((i) => (
-            <line
-              key={`h${i}`}
-              x1={100 + i * 75}
-              y1={50}
-              x2={100 + i * 75}
-              y2={430}
-              stroke="rgba(0,0,0,0.04)"
-              strokeWidth="0.5"
+        <div className="relative">
+          <svg
+            viewBox="0 0 600 500"
+            className="w-full h-auto"
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            {/* Background texture */}
+            <defs>
+              <pattern id="dots" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+                <circle cx="10" cy="10" r="0.5" fill="rgba(0,0,0,0.06)" />
+              </pattern>
+            </defs>
+            <rect x="0" y="0" width="600" height="500" fill="url(#dots)" rx="16" />
+
+            {/* China outline */}
+            <path
+              d="M568,39 L578,108 L558,128 L522,138 L498,160 L486,180 L475,210 L454,224 L425,236
+                 L438,248 L460,251 L448,258 L450,290 L458,326 L448,352 L446,374 L438,392
+                 L428,414 L414,444 L390,454 L356,468 L346,450 L338,442 L314,445
+                 L282,440 L250,443 L250,404 L238,386 L196,376 L182,366 L164,358 L146,347
+                 L116,338 L94,320 L82,275 L62,258 L46,228 L54,206 L76,178 L98,152
+                 L122,136 L154,118 L164,114 L194,128 L224,140 L260,150 L312,166 L348,146
+                 L400,128 L440,88 L496,74 Z"
+              fill="rgba(0,122,255,0.03)"
+              stroke="rgba(0,0,0,0.12)"
+              strokeWidth="1.5"
             />
-          ))}
-          {[0, 1, 2, 3, 4, 5, 6].map((i) => (
-            <line
-              key={`v${i}`}
-              x1={80}
-              y1={80 + i * 60}
-              x2={740}
-              y2={80 + i * 60}
-              stroke="rgba(0,0,0,0.04)"
-              strokeWidth="0.5"
+
+            {/* Taiwan */}
+            <path
+              d="M470,330 L476,324 L480,332 L482,340 L478,349 L472,351 L467,345 L466,336 Z"
+              fill="rgba(0,122,255,0.03)"
+              stroke="rgba(0,0,0,0.10)"
+              strokeWidth="1.2"
             />
-          ))}
-          {/* City markers */}
-          {cities.map((city) => (
-            <g key={city.name}>
-              {/* Glow ring */}
-              <circle
-                cx={city.x}
-                cy={city.y}
-                r={hovered === city.name ? 8 : 4}
-                fill="none"
-                stroke={hovered === city.name ? "#007aff" : "rgba(0,122,255,0.25)"}
-                strokeWidth={hovered === city.name ? 1.5 : 0.8}
-                className="transition-all duration-300"
-              />
-              {/* Dot */}
-              <circle
-                cx={city.x}
-                cy={city.y}
-                r={2}
-                fill="#007aff"
-              />
-              {/* Hover area */}
-              <circle
-                cx={city.x}
-                cy={city.y}
-                r={12}
-                fill="transparent"
-                className="cursor-pointer"
-                onMouseEnter={() => setHovered(city.name)}
-                onMouseLeave={() => setHovered(null)}
-              />
-              {/* Label */}
-              {hovered === city.name && (
-                <motion.g
-                  initial={{ opacity: 0, y: -5 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  transition={{ duration: 0.2 }}
-                >
-                  <rect
-                    x={city.x - 18}
-                    y={city.y - 32}
-                    width={36}
-                    height={20}
-                    rx={6}
-                    fill="rgba(0,0,0,0.8)"
+
+            {/* Hainan */}
+            <path
+              d="M356,402 L362,396 L368,400 L370,408 L366,416 L358,414 L354,408 Z"
+              fill="rgba(0,122,255,0.03)"
+              stroke="rgba(0,0,0,0.10)"
+              strokeWidth="0.8"
+            />
+
+            {/* Province borders (simplified) */}
+            <g stroke="rgba(0,0,0,0.05)" strokeWidth="0.5" strokeDasharray="3 3">
+              {/* Inner Mongolia / Hebei */}
+              <path d="M348,146 L400,128 L440,88 L496,74" />
+              <path d="M312,166 L348,146" />
+              {/* Henan / Hubei / Shaanxi */}
+              <path d="M340,283 L370,279 L392,264 L410,259 L380,277" />
+              {/* Sichuan basin */}
+              <path d="M299,332 L340,283" />
+              {/* Guangdong / Fujian */}
+              <path d="M383,433 L428,414" />
+              <path d="M377,425 L370,408" />
+            </g>
+
+            {/* Visited city markers */}
+            {cities.map((city) => {
+              const isCurrent = city.name === currentCity;
+              return (
+                <g key={city.name}>
+                  {/* City dot */}
+                  <circle
+                    cx={city.x}
+                    cy={city.y}
+                    r={isCurrent ? 3 : 2}
+                    fill={isCurrent ? "#007aff" : "rgba(0,122,255,0.5)"}
+                    fillOpacity={isCurrent ? 1 : 0.6}
                   />
+                  {!isCurrent && (
+                    <circle
+                      cx={city.x}
+                      cy={city.y}
+                      r={5}
+                      fill="none"
+                      stroke="rgba(0,122,255,0.15)"
+                      strokeWidth="0.5"
+                    />
+                  )}
+                  {/* City name */}
                   <text
-                    x={city.x}
-                    y={city.y - 18}
-                    textAnchor="middle"
-                    fill="#ffffff"
-                    fontSize="10"
-                    fontWeight="500"
+                    x={city.x + 6}
+                    y={city.y + 3.5}
+                    fill="rgba(0,0,0,0.45)"
+                    fontSize="8"
+                    fontFamily="system-ui, sans-serif"
                   >
                     {city.name}
                   </text>
-                </motion.g>
-              )}
-            </g>
-          ))}
-          {/* Legend */}
-          <g transform="translate(680, 420)">
-            <circle cx="0" cy="0" r="2" fill="#007aff" />
-            <text x="10" y="3" fill="rgba(0,0,0,0.4)" fontSize="10">
-              已点亮
-            </text>
-          </g>
-        </svg>
+                </g>
+              );
+            })}
+
+            {/* Current location pulse ring */}
+            {(() => {
+              const cur = cities.find((c) => c.name === currentCity);
+              if (!cur) return null;
+              return (
+                <>
+                  <motion.circle
+                    cx={cur.x}
+                    cy={cur.y}
+                    r={3}
+                    fill="none"
+                    stroke="#007aff"
+                    strokeWidth="1.5"
+                    initial={{ r: 3, opacity: 1 }}
+                    animate={{ r: 14, opacity: 0 }}
+                    transition={{ repeat: Infinity, duration: 2, ease: "easeOut" }}
+                  />
+                  <motion.circle
+                    cx={cur.x}
+                    cy={cur.y}
+                    r={3}
+                    fill="none"
+                    stroke="#007aff"
+                    strokeWidth="1.5"
+                    initial={{ r: 3, opacity: 1 }}
+                    animate={{ r: 14, opacity: 0 }}
+                    transition={{ repeat: Infinity, duration: 2, ease: "easeOut", delay: 1 }}
+                  />
+                  <circle cx={cur.x} cy={cur.y} r={3} fill="#007aff" />
+                  {/* White halo */}
+                  <circle
+                    cx={cur.x}
+                    cy={cur.y}
+                    r={6}
+                    fill="none"
+                    stroke="rgba(255,255,255,0.8)"
+                    strokeWidth="2"
+                  />
+                </>
+              );
+            })()}
+          </svg>
+
+          {/* Location badge */}
+          <div className="absolute bottom-3 left-3 flex items-center gap-2 bg-white/90 backdrop-blur-sm rounded-full py-1.5 px-4 shadow-sm border border-black/[0.06]">
+            <span className="w-2 h-2 rounded-full bg-[#007aff] animate-pulse" />
+            <span className="text-xs font-medium text-[#1d1d1f]">
+              {currentCity}，当前所在
+            </span>
+          </div>
+        </div>
       </motion.div>
     </>
   );
