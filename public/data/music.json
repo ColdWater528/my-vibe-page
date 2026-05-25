@@ -3,14 +3,14 @@
     "name": "玻璃",
     "artist": "Gareth.T",
     "album": "玻璃",
-    "cover": "http://p4.music.126.net/MSKoQP60up7v3y1P1d3JIQ==/109951173234747322.jpg",
+    "cover": "http://p3.music.126.net/MSKoQP60up7v3y1P1d3JIQ==/109951173234747322.jpg",
     "url": "https://music.163.com/song?id=3382908505"
   },
   {
     "name": "Don't You Worry Baby",
     "artist": "Tyler, The Creator/Madison McFerrin",
     "album": "DON'T TAP THE GLASS",
-    "cover": "http://p4.music.126.net/AsxT0boZLN1hOLL28nMOzA==/109951171496882163.jpg",
+    "cover": "http://p3.music.126.net/AsxT0boZLN1hOLL28nMOzA==/109951171496882163.jpg",
     "url": "https://music.163.com/song?id=2727830336"
   },
   {
@@ -31,21 +31,28 @@
     "name": "Reminder",
     "artist": "The Weeknd",
     "album": "Starboy",
-    "cover": "http://p3.music.126.net/9i2hrhQfRPNbTWD6YVAQXg==/109951167103667631.jpg",
+    "cover": "http://p4.music.126.net/9i2hrhQfRPNbTWD6YVAQXg==/109951167103667631.jpg",
     "url": "https://music.163.com/song?id=442869469"
+  },
+  {
+    "name": "前前前世 (movie ver.)",
+    "artist": "RADWIMPS",
+    "album": "君の名は。",
+    "cover": "http://p3.music.126.net/UoHin_i29CVJr4gKPEY1kQ==/109951171836647530.jpg",
+    "url": "https://music.163.com/song?id=426881487"
   },
   {
     "name": "和你",
     "artist": "余佳运",
     "album": "幸福三部曲",
-    "cover": "http://p3.music.126.net/O6d7GYY3gp2uy8zehvcOjQ==/17699938184267410.jpg",
+    "cover": "http://p4.music.126.net/O6d7GYY3gp2uy8zehvcOjQ==/17699938184267410.jpg",
     "url": "https://music.163.com/song?id=420401511"
   },
   {
     "name": "圆",
     "artist": "AGA",
     "album": "Ginadoll",
-    "cover": "http://p4.music.126.net/c2VB_r9bD1iX99_FHk_R_w==/109951172903960689.jpg",
+    "cover": "http://p3.music.126.net/c2VB_r9bD1iX99_FHk_R_w==/109951172903960689.jpg",
     "url": "https://music.163.com/song?id=406475388"
   },
   {
@@ -59,14 +66,7 @@
     "name": "恋人",
     "artist": "李荣浩",
     "album": "黑马",
-    "cover": "http://p3.music.126.net/0bk3Iqe2OZGBH2Iuyx7RzA==/109951170045577565.jpg",
+    "cover": "http://p4.music.126.net/0bk3Iqe2OZGBH2Iuyx7RzA==/109951170045577565.jpg",
     "url": "https://music.163.com/song?id=2600493765"
-  },
-  {
-    "name": "Ghost Face (鬼脸) (LIVE版)",
-    "artist": "法老",
-    "album": "中国说唱巅峰对决2023 第一期",
-    "cover": "http://p3.music.126.net/stWn-jW79HHUxV-FY7-yXg==/109951168592980662.jpg",
-    "url": "https://music.163.com/song?id=2045332345"
   }
 ]
