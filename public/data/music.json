@@ -10,8 +10,22 @@
     "name": "Lick",
     "artist": "Offset",
     "album": "FATHER OF 4",
-    "cover": "http://p3.music.126.net/fraI6hxQiYAMcFuqj8irag==/109951164704854207.jpg",
+    "cover": "http://p4.music.126.net/fraI6hxQiYAMcFuqj8irag==/109951164704854207.jpg",
     "url": "https://music.163.com/song?id=1347702308"
+  },
+  {
+    "name": "Now Or Never (Bonus Track)",
+    "artist": "Kendrick Lamar/Mary J. Blige",
+    "album": "good kid, m.A.A.d city (Deluxe)",
+    "cover": "http://p4.music.126.net/zF4aM1VZN-DsDc5Yb6PlXA==/109951166527909617.jpg",
+    "url": "https://music.163.com/song?id=18943527"
+  },
+  {
+    "name": "路口",
+    "artist": "张震岳",
+    "album": "OK",
+    "cover": "http://p3.music.126.net/N61oLy0iLfEkZTHD2j87iA==/18693896697392706.jpg",
+    "url": "https://music.163.com/song?id=185704"
   },
   {
     "name": "Love Song",
@@ -21,6 +35,20 @@
     "url": "https://music.163.com/song?id=82360"
   },
   {
+    "name": "No Tear No Cry",
+    "artist": "Enois Scroggins",
+    "album": "The Best of Enois",
+    "cover": "http://p4.music.126.net/aTDuRPlO8IeuLDccpno32g==/109951163298266857.jpg",
+    "url": "https://music.163.com/song?id=561194487"
+  },
+  {
+    "name": "The Weekend (Funk Wav Remix)",
+    "artist": "SZA/Calvin Harris",
+    "album": "The Weekend (Funk Wav Remix)",
+    "cover": "http://p3.music.126.net/8K1Vp3GMiKmB4KTeSeaofw==/109951165983792494.jpg",
+    "url": "https://music.163.com/song?id=524149106"
+  },
+  {
     "name": "和每天讲再见",
     "artist": "李幸倪",
     "album": "和每天讲再见",
@@ -28,45 +56,17 @@
     "url": "https://music.163.com/song?id=484755733"
   },
   {
-    "name": "Road Trips",
-    "artist": "Drake",
-    "album": "MAID OF HONOUR",
-    "cover": "http://p3.music.126.net/wNeW5gccNFoZRXZsBM7bfA==/109951173222898034.jpg",
-    "url": "https://music.163.com/song?id=3382154183"
+    "name": "孤雏",
+    "artist": "AGA",
+    "album": "Ginadoll Concert Live",
+    "cover": "http://p4.music.126.net/YbVYaBWh_bgSlgvYpDrtug==/109951169358375245.jpg",
+    "url": "https://music.163.com/song?id=463352373"
   },
   {
-    "name": "Molly (feat. Brendon Urie of Panic at the Disco)",
-    "artist": "Lil Dicky/Brendon Urie",
-    "album": "Professional Rapper",
-    "cover": "http://p3.music.126.net/FKybIiqhWufag8EUBNkzhA==/109951165245868882.jpg",
-    "url": "https://music.163.com/song?id=33682400"
-  },
-  {
-    "name": "春",
-    "artist": "陈文非",
-    "album": "春",
-    "cover": "http://p3.music.126.net/VyoQ0yvlbistpIrZfPr5Yg==/109951172831715775.jpg",
-    "url": "https://music.163.com/song?id=3355205405"
-  },
-  {
-    "name": "讲真的",
-    "artist": "曾惜",
-    "album": "讲真的",
-    "cover": "http://p3.music.126.net/0TjXg8FbfVqI_z5chW7-Yw==/109951165463101302.jpg",
-    "url": "https://music.163.com/song?id=30987293"
-  },
-  {
-    "name": "PREACHER MAN2",
-    "artist": "tvikonaut",
-    "album": "BULLY 2025",
-    "cover": "http://p4.music.126.net/f4slOUzjF-NjpS_4xLnMWA==/109951170632853982.jpg",
-    "url": "https://music.163.com/song?id=2686640288"
-  },
-  {
-    "name": "文城",
-    "artist": "Vansdaddy/mac ova seas",
-    "album": "牛窝坑之子",
-    "cover": "http://p4.music.126.net/YBZo2_Q0lfEBT3VpAFUifA==/109951169660676418.jpg",
-    "url": "https://music.163.com/song?id=2160717922"
+    "name": "能不能",
+    "artist": "温岚/王威登(铁竹堂)",
+    "album": "一人一首成名曲合辑1",
+    "cover": "http://p3.music.126.net/ZXsG2Tz2eFsN4JreFt7ICQ==/109951173259846959.jpg",
+    "url": "https://music.163.com/song?id=3384823503"
   }
 ]
