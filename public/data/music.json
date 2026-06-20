@@ -1,5 +1,19 @@
 [
   {
+    "name": "Now Or Never (Bonus Track)",
+    "artist": "Kendrick Lamar/Mary J. Blige",
+    "album": "good kid, m.A.A.d city (Deluxe)",
+    "cover": "http://p3.music.126.net/zF4aM1VZN-DsDc5Yb6PlXA==/109951166527909617.jpg",
+    "url": "https://music.163.com/song?id=18943527"
+  },
+  {
+    "name": "路口",
+    "artist": "张震岳",
+    "album": "OK",
+    "cover": "http://p4.music.126.net/N61oLy0iLfEkZTHD2j87iA==/18693896697392706.jpg",
+    "url": "https://music.163.com/song?id=185704"
+  },
+  {
     "name": "Departures〜あなたにおくるアイの歌〜",
     "artist": "EGOIST",
     "album": "Departures~あなたにおくるアイの歌~",
@@ -10,22 +24,8 @@
     "name": "BLAME ON ME",
     "artist": "Gummy B",
     "album": "更好",
-    "cover": "http://p3.music.126.net/hBfYXsGBIf0JoCn8c61cQQ==/109951172092165022.jpg",
+    "cover": "http://p4.music.126.net/hBfYXsGBIf0JoCn8c61cQQ==/109951172092165022.jpg",
     "url": "https://music.163.com/song?id=2749783753"
-  },
-  {
-    "name": "Now Or Never (Bonus Track)",
-    "artist": "Kendrick Lamar/Mary J. Blige",
-    "album": "good kid, m.A.A.d city (Deluxe)",
-    "cover": "http://p4.music.126.net/zF4aM1VZN-DsDc5Yb6PlXA==/109951166527909617.jpg",
-    "url": "https://music.163.com/song?id=18943527"
-  },
-  {
-    "name": "路口",
-    "artist": "张震岳",
-    "album": "OK",
-    "cover": "http://p3.music.126.net/N61oLy0iLfEkZTHD2j87iA==/18693896697392706.jpg",
-    "url": "https://music.163.com/song?id=185704"
   },
   {
     "name": "Lick",
@@ -45,7 +45,7 @@
     "name": "DAMN",
     "artist": "Kanye West/Ye",
     "album": "BULLY",
-    "cover": "http://p4.music.126.net/5BPkFRbc-LjMpCM0gRoJHw==/109951172957661098.jpg",
+    "cover": "http://p3.music.126.net/5BPkFRbc-LjMpCM0gRoJHw==/109951172957661098.jpg",
     "url": "https://music.163.com/song?id=3364286180"
   },
   {
@@ -59,14 +59,14 @@
     "name": "KING",
     "artist": "Kanye West/Ye",
     "album": "BULLY",
-    "cover": "http://p3.music.126.net/5BPkFRbc-LjMpCM0gRoJHw==/109951172957661098.jpg",
+    "cover": "http://p4.music.126.net/5BPkFRbc-LjMpCM0gRoJHw==/109951172957661098.jpg",
     "url": "https://music.163.com/song?id=3364286171"
   },
   {
     "name": "THIS ONE HERE",
     "artist": "Kanye West/Ye",
     "album": "BULLY",
-    "cover": "http://p3.music.126.net/5BPkFRbc-LjMpCM0gRoJHw==/109951172957661098.jpg",
+    "cover": "http://p4.music.126.net/5BPkFRbc-LjMpCM0gRoJHw==/109951172957661098.jpg",
     "url": "https://music.163.com/song?id=3364284335"
   }
 ]
