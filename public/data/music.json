@@ -7,25 +7,11 @@
     "url": "https://music.163.com/song?id=570350028"
   },
   {
-    "name": "能不能",
-    "artist": "温岚/王威登(铁竹堂)",
-    "album": "一人一首成名曲合辑1",
-    "cover": "http://p4.music.126.net/ZXsG2Tz2eFsN4JreFt7ICQ==/109951173259846959.jpg",
-    "url": "https://music.163.com/song?id=3384823503"
-  },
-  {
     "name": "抱紧一点",
     "artist": "黄丽玲",
     "album": "寂寞不痛",
-    "cover": "http://p3.music.126.net/lxXGBPPqNS6iNYJjr_4CTA==/109951164087833607.jpg",
+    "cover": "http://p4.music.126.net/lxXGBPPqNS6iNYJjr_4CTA==/109951164087833607.jpg",
     "url": "https://music.163.com/song?id=205350"
-  },
-  {
-    "name": "路口",
-    "artist": "张震岳",
-    "album": "OK",
-    "cover": "http://p4.music.126.net/N61oLy0iLfEkZTHD2j87iA==/18693896697392706.jpg",
-    "url": "https://music.163.com/song?id=185704"
   },
   {
     "name": "Departures〜あなたにおくるアイの歌〜",
@@ -38,8 +24,15 @@
     "name": "Love Yourself",
     "artist": "Justin Bieber",
     "album": "Purpose (Deluxe)",
-    "cover": "http://p4.music.126.net/blUtlEMXGvByj_SAWVqc7g==/109951171891446591.jpg",
+    "cover": "http://p3.music.126.net/blUtlEMXGvByj_SAWVqc7g==/109951171891446591.jpg",
     "url": "https://music.163.com/song?id=36496695"
+  },
+  {
+    "name": "能不能",
+    "artist": "温岚/王威登(铁竹堂)",
+    "album": "一人一首成名曲合辑1",
+    "cover": "http://p4.music.126.net/ZXsG2Tz2eFsN4JreFt7ICQ==/109951173259846959.jpg",
+    "url": "https://music.163.com/song?id=3384823503"
   },
   {
     "name": "Poplar",
@@ -52,21 +45,28 @@
     "name": "眼泪的汛期",
     "artist": "王唯旖",
     "album": "眼泪的汛期",
-    "cover": "http://p4.music.126.net/2dXIFSupBGuDIqtSCmVWmw==/109951172732228063.jpg",
+    "cover": "http://p3.music.126.net/2dXIFSupBGuDIqtSCmVWmw==/109951172732228063.jpg",
     "url": "https://music.163.com/song?id=3349010771"
   },
   {
     "name": "无始无终",
     "artist": "TC",
     "album": "无始无终",
-    "cover": "http://p4.music.126.net/IUcI-1GUjyeu_e_dvs_Qeg==/109951172660003391.jpg",
+    "cover": "http://p3.music.126.net/IUcI-1GUjyeu_e_dvs_Qeg==/109951172660003391.jpg",
     "url": "https://music.163.com/song?id=3343962691"
   },
   {
-    "name": "我的回忆不是我的",
-    "artist": "泳儿/海鸣威",
-    "album": "多一点",
-    "cover": "http://p4.music.126.net/0Aajf3JX7W4MGYmp8HUv2Q==/109951166727088156.jpg",
-    "url": "https://music.163.com/song?id=316451"
+    "name": "BLAME ON ME",
+    "artist": "Gummy B",
+    "album": "更好",
+    "cover": "http://p3.music.126.net/hBfYXsGBIf0JoCn8c61cQQ==/109951172092165022.jpg",
+    "url": "https://music.163.com/song?id=2749783753"
+  },
+  {
+    "name": "Never see me again（Explicit）",
+    "artist": "TheFloridaMan/GOAT",
+    "album": "Ghost Town Runaway pt.2",
+    "cover": "http://p4.music.126.net/YSt-vuCLBPk0TVyLuol3nw==/109951170703922281.jpg",
+    "url": "https://music.163.com/song?id=2692690431"
   }
 ]
