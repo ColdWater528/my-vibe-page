@@ -3,7 +3,7 @@
     "name": "Ghost Town",
     "artist": "Kanye West/PARTYNEXTDOOR",
     "album": "ye",
-    "cover": "http://p4.music.126.net/0_TEMEngYYsmrwFTXgC1Nw==/109951166959857767.jpg",
+    "cover": "http://p3.music.126.net/0_TEMEngYYsmrwFTXgC1Nw==/109951166959857767.jpg",
     "url": "https://music.163.com/song?id=570350028"
   },
   {
@@ -12,20 +12,6 @@
     "album": "Departures~あなたにおくるアイの歌~",
     "cover": "http://p4.music.126.net/RU7zCEyeZMH7ZYk6xcm19w==/109951165946393227.jpg",
     "url": "https://music.163.com/song?id=722928"
-  },
-  {
-    "name": "抱紧一点",
-    "artist": "黄丽玲",
-    "album": "寂寞不痛",
-    "cover": "http://p4.music.126.net/lxXGBPPqNS6iNYJjr_4CTA==/109951164087833607.jpg",
-    "url": "https://music.163.com/song?id=205350"
-  },
-  {
-    "name": "路口",
-    "artist": "张震岳",
-    "album": "OK",
-    "cover": "http://p3.music.126.net/N61oLy0iLfEkZTHD2j87iA==/18693896697392706.jpg",
-    "url": "https://music.163.com/song?id=185704"
   },
   {
     "name": "Love Yourself",
@@ -38,15 +24,8 @@
     "name": "能不能",
     "artist": "温岚/王威登(铁竹堂)",
     "album": "一人一首成名曲合辑1",
-    "cover": "http://p3.music.126.net/ZXsG2Tz2eFsN4JreFt7ICQ==/109951173259846959.jpg",
+    "cover": "http://p4.music.126.net/ZXsG2Tz2eFsN4JreFt7ICQ==/109951173259846959.jpg",
     "url": "https://music.163.com/song?id=3384823503"
-  },
-  {
-    "name": "Poplar",
-    "artist": "Caks",
-    "album": "不沪",
-    "cover": "http://p4.music.126.net/oIGnWOGntuEV-QyJx0mtfg==/109951171903326660.jpg",
-    "url": "https://music.163.com/song?id=3353440493"
   },
   {
     "name": "眼泪的汛期",
@@ -56,17 +35,38 @@
     "url": "https://music.163.com/song?id=3349010771"
   },
   {
-    "name": "无始无终",
-    "artist": "TC",
-    "album": "无始无终",
-    "cover": "http://p3.music.126.net/IUcI-1GUjyeu_e_dvs_Qeg==/109951172660003391.jpg",
-    "url": "https://music.163.com/song?id=3343962691"
-  },
-  {
     "name": "BLAME ON ME",
     "artist": "Gummy B",
     "album": "更好",
-    "cover": "http://p3.music.126.net/hBfYXsGBIf0JoCn8c61cQQ==/109951172092165022.jpg",
+    "cover": "http://p4.music.126.net/hBfYXsGBIf0JoCn8c61cQQ==/109951172092165022.jpg",
     "url": "https://music.163.com/song?id=2749783753"
+  },
+  {
+    "name": "Never see me again（Explicit）",
+    "artist": "TheFloridaMan/GOAT",
+    "album": "Ghost Town Runaway pt.2",
+    "cover": "http://p3.music.126.net/YSt-vuCLBPk0TVyLuol3nw==/109951170703922281.jpg",
+    "url": "https://music.163.com/song?id=2692690431"
+  },
+  {
+    "name": "路口",
+    "artist": "张震岳",
+    "album": "OK",
+    "cover": "http://p4.music.126.net/N61oLy0iLfEkZTHD2j87iA==/18693896697392706.jpg",
+    "url": "https://music.163.com/song?id=185704"
+  },
+  {
+    "name": "Lick",
+    "artist": "Offset",
+    "album": "FATHER OF 4",
+    "cover": "http://p4.music.126.net/fraI6hxQiYAMcFuqj8irag==/109951164704854207.jpg",
+    "url": "https://music.163.com/song?id=1347702308"
+  },
+  {
+    "name": "少一点天分",
+    "artist": "孙盛希",
+    "album": "|希。O2 | 初雪限定",
+    "cover": "http://p4.music.126.net/1QT6pMrufe1LjwVOgDJ81w==/109951163176818589.jpg",
+    "url": "https://music.163.com/song?id=543798652"
   }
 ]
