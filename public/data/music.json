@@ -3,14 +3,14 @@
     "name": "Hero (Prod. by Primary)",
     "artist": "Meego",
     "album": "약한영웅 Class 1 OST",
-    "cover": "http://p3.music.126.net/XQnPUD6WTSOm923f61oB9A==/109951169940108918.jpg",
+    "cover": "http://p4.music.126.net/XQnPUD6WTSOm923f61oB9A==/109951169940108918.jpg",
     "url": "https://music.163.com/song?id=2002438667"
   },
   {
     "name": "Ghost Town",
     "artist": "Kanye West/PARTYNEXTDOOR",
     "album": "ye",
-    "cover": "http://p3.music.126.net/0_TEMEngYYsmrwFTXgC1Nw==/109951166959857767.jpg",
+    "cover": "http://p4.music.126.net/0_TEMEngYYsmrwFTXgC1Nw==/109951166959857767.jpg",
     "url": "https://music.163.com/song?id=570350028"
   },
   {
@@ -24,8 +24,15 @@
     "name": "路口",
     "artist": "张震岳",
     "album": "OK",
-    "cover": "http://p4.music.126.net/N61oLy0iLfEkZTHD2j87iA==/18693896697392706.jpg",
+    "cover": "http://p3.music.126.net/N61oLy0iLfEkZTHD2j87iA==/18693896697392706.jpg",
     "url": "https://music.163.com/song?id=185704"
+  },
+  {
+    "name": "MISSION CONTROL (feat. The WRLDFMS Tony Williams)",
+    "artist": "Kanye West/Ye/The WRLDFMS Tony Williams",
+    "album": "BULLY - DELUXE",
+    "cover": "http://p3.music.126.net/wJhFaiWhdinuBl8dUcs6jA==/109951173427879020.jpg",
+    "url": "https://music.163.com/song?id=3395921363"
   },
   {
     "name": "Moonlight",
@@ -42,31 +49,24 @@
     "url": "https://music.163.com/song?id=18969150"
   },
   {
-    "name": "Love Yourself",
-    "artist": "Justin Bieber",
-    "album": "Purpose (Deluxe)",
-    "cover": "http://p3.music.126.net/blUtlEMXGvByj_SAWVqc7g==/109951171891446591.jpg",
-    "url": "https://music.163.com/song?id=36496695"
+    "name": "Now Or Never (Bonus Track)",
+    "artist": "Kendrick Lamar/Mary J. Blige",
+    "album": "good kid, m.A.A.d city (Deluxe)",
+    "cover": "http://p3.music.126.net/zF4aM1VZN-DsDc5Yb6PlXA==/109951166527909617.jpg",
+    "url": "https://music.163.com/song?id=18943527"
   },
   {
-    "name": "MISSION CONTROL (feat. The WRLDFMS Tony Williams)",
-    "artist": "Kanye West/Ye/The WRLDFMS Tony Williams",
-    "album": "BULLY - DELUXE",
-    "cover": "http://p4.music.126.net/wJhFaiWhdinuBl8dUcs6jA==/109951173427879020.jpg",
-    "url": "https://music.163.com/song?id=3395921363"
+    "name": "Lick",
+    "artist": "Offset",
+    "album": "FATHER OF 4",
+    "cover": "http://p3.music.126.net/fraI6hxQiYAMcFuqj8irag==/109951164704854207.jpg",
+    "url": "https://music.163.com/song?id=1347702308"
   },
   {
-    "name": "能不能",
-    "artist": "温岚/王威登(铁竹堂)",
-    "album": "一人一首成名曲合辑1",
-    "cover": "http://p3.music.126.net/ZXsG2Tz2eFsN4JreFt7ICQ==/109951173259846959.jpg",
-    "url": "https://music.163.com/song?id=3384823503"
-  },
-  {
-    "name": "眼泪的汛期",
-    "artist": "王唯旖",
-    "album": "眼泪的汛期",
-    "cover": "http://p3.music.126.net/2dXIFSupBGuDIqtSCmVWmw==/109951172732228063.jpg",
-    "url": "https://music.163.com/song?id=3349010771"
+    "name": "不如不见面",
+    "artist": "梁淞Tsong/鬼鬼_非凡Gus",
+    "album": "不如不见面",
+    "cover": "http://p3.music.126.net/yvxsmaZ4vmJbFuikK9suWQ==/109951163335310308.jpg",
+    "url": "https://music.163.com/song?id=571472967"
   }
 ]
