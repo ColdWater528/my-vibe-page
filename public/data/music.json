@@ -3,35 +3,42 @@
     "name": "DAISIES",
     "artist": "Justin Bieber",
     "album": "SWAG",
-    "cover": "http://p4.music.126.net/KnF8pyIpQp_Kc_PjoFN5-g==/109951172010103985.jpg",
+    "cover": "http://p3.music.126.net/KnF8pyIpQp_Kc_PjoFN5-g==/109951172010103985.jpg",
     "url": "https://music.163.com/song?id=2724714488"
   },
   {
     "name": "Love You Down",
     "artist": "Offset",
     "album": "KIARI",
-    "cover": "http://p3.music.126.net/YBP-UpIMSH1W-58BO1-s8A==/109951171912547232.jpg",
+    "cover": "http://p4.music.126.net/YBP-UpIMSH1W-58BO1-s8A==/109951171912547232.jpg",
     "url": "https://music.163.com/song?id=2738810229"
   },
   {
     "name": "失眠",
     "artist": "Suki刘舒妤",
     "album": "Ladies Night",
-    "cover": "http://p3.music.126.net/-ruDNWFD1mMTGMNmNPzUIg==/109951173355316164.jpg",
+    "cover": "http://p4.music.126.net/-ruDNWFD1mMTGMNmNPzUIg==/109951173355316164.jpg",
     "url": "https://music.163.com/song?id=273114"
+  },
+  {
+    "name": "Ghost Town",
+    "artist": "Kanye West/PARTYNEXTDOOR",
+    "album": "ye",
+    "cover": "http://p3.music.126.net/0_TEMEngYYsmrwFTXgC1Nw==/109951166959857767.jpg",
+    "url": "https://music.163.com/song?id=570350028"
   },
   {
     "name": "OK (feat. Don Toliver)",
     "artist": "Kanye West/Ye/Don Toliver",
     "album": "BULLY - DELUXE",
-    "cover": "http://p3.music.126.net/wJhFaiWhdinuBl8dUcs6jA==/109951173427879020.jpg",
+    "cover": "http://p4.music.126.net/wJhFaiWhdinuBl8dUcs6jA==/109951173427879020.jpg",
     "url": "https://music.163.com/song?id=3395921362"
   },
   {
     "name": "기억이 머물던 곳",
     "artist": "July",
     "album": "다시 봄",
-    "cover": "http://p3.music.126.net/rZsXMDUzt17c2LJnYvH5Ng==/109951170103303964.jpg",
+    "cover": "http://p4.music.126.net/rZsXMDUzt17c2LJnYvH5Ng==/109951170103303964.jpg",
     "url": "https://music.163.com/song?id=28713832"
   },
   {
@@ -45,7 +52,7 @@
     "name": "SKY CITY",
     "artist": "¥$/Kanye West/Ty Dolla $ign",
     "album": "VULTURES 2",
-    "cover": "http://p3.music.126.net/Qh8A9YR0shxbXTjUpOUEpQ==/109951169877712367.jpg",
+    "cover": "http://p4.music.126.net/Qh8A9YR0shxbXTjUpOUEpQ==/109951169877712367.jpg",
     "url": "https://music.163.com/song?id=2614013006"
   },
   {
@@ -59,14 +66,7 @@
     "name": "Go Crazy",
     "artist": "Bray Brown/Chris Mayz",
     "album": "Go Crazy",
-    "cover": "http://p3.music.126.net/HSV8SXUUKeqy-2f99XQJ8Q==/109951165066860354.jpg",
+    "cover": "http://p4.music.126.net/HSV8SXUUKeqy-2f99XQJ8Q==/109951165066860354.jpg",
     "url": "https://music.163.com/song?id=1455921744"
-  },
-  {
-    "name": "想你的夜",
-    "artist": "关喆",
-    "album": "永远的永远",
-    "cover": "http://p3.music.126.net/zu9MjBERozqTv_0NpM91Rg==/109951164094037727.jpg",
-    "url": "https://music.163.com/song?id=88926"
   }
 ]
