@@ -1,10 +1,10 @@
 [
   {
-    "name": "淡想（Memories）",
-    "artist": "周童",
-    "album": "淡想（Memories）",
-    "cover": "http://p4.music.126.net/vOx0p36GjiJcCe9rYl6dcA==/109951164506863360.jpg",
-    "url": "https://music.163.com/song?id=1405598377"
+    "name": "那你嘞",
+    "artist": "张方钊",
+    "album": "哥们废了",
+    "cover": "http://p3.music.126.net/KTly-GTkaN8zIRBty1Mu5w==/109951168526933052.jpg",
+    "url": "https://music.163.com/song?id=2036231782"
   },
   {
     "name": "想着跟你说",
@@ -14,18 +14,39 @@
     "url": "https://music.163.com/song?id=3366778505"
   },
   {
-    "name": "那你嘞",
-    "artist": "张方钊",
-    "album": "哥们废了",
-    "cover": "http://p3.music.126.net/KTly-GTkaN8zIRBty1Mu5w==/109951168526933052.jpg",
-    "url": "https://music.163.com/song?id=2036231782"
-  },
-  {
     "name": "给我你的爱",
     "artist": "曾婕Joey.Z",
     "album": "给我你的爱",
-    "cover": "http://p3.music.126.net/asfcyZjXJ0xvkYdtijfAyA==/109951163590525339.jpg",
+    "cover": "http://p4.music.126.net/asfcyZjXJ0xvkYdtijfAyA==/109951163590525339.jpg",
     "url": "https://music.163.com/song?id=1313052412"
+  },
+  {
+    "name": "大哥",
+    "artist": "卫兰",
+    "album": "叱吒新一代",
+    "cover": "http://p4.music.126.net/i2P1ox4pWG9VLeoRFeUxfQ==/76965813961922.jpg",
+    "url": "https://music.163.com/song?id=5256469"
+  },
+  {
+    "name": "JaJa",
+    "artist": "LSGCsikoriot/CashTrippy",
+    "album": "佛哦佛404",
+    "cover": "http://p4.music.126.net/_OJ35GGy3OfvnHnvcmBwGw==/109951173826342124.jpg",
+    "url": "https://music.163.com/song?id=3426182170"
+  },
+  {
+    "name": "第404次离开intro",
+    "artist": "LSGCsikoriot",
+    "album": "佛哦佛404",
+    "cover": "http://p3.music.126.net/_OJ35GGy3OfvnHnvcmBwGw==/109951173826342124.jpg",
+    "url": "https://music.163.com/song?id=3426182163"
+  },
+  {
+    "name": "不回头",
+    "artist": "LSGCsikoriot",
+    "album": "佛哦佛404",
+    "cover": "http://p3.music.126.net/_OJ35GGy3OfvnHnvcmBwGw==/109951173826342124.jpg",
+    "url": "https://music.163.com/song?id=3426181647"
   },
   {
     "name": "我还在想你",
@@ -47,26 +68,5 @@
     "album": "MCOM",
     "cover": "http://p4.music.126.net/eWsYxtD0zSXX7qZT4bjg7Q==/109951172483698889.jpg",
     "url": "https://music.163.com/song?id=3332142775"
-  },
-  {
-    "name": "揣测",
-    "artist": "安扬August",
-    "album": "揣测",
-    "cover": "http://p3.music.126.net/uJKZ6HivsOJ9iDbYppcYPw==/109951171485618661.jpg",
-    "url": "https://music.163.com/song?id=2704260206"
-  },
-  {
-    "name": "I Can't Sleep",
-    "artist": "Jolianne",
-    "album": "I Can't Sleep",
-    "cover": "http://p4.music.126.net/pc_6La5E_BRSEHINme0_3g==/109951168904624262.jpg",
-    "url": "https://music.163.com/song?id=2080855007"
-  },
-  {
-    "name": "K歌之王",
-    "artist": "陈奕迅",
-    "album": "打得火热",
-    "cover": "http://p4.music.126.net/PsM8DrCWXNDj1MCIgCLaVA==/18632324046199371.jpg",
-    "url": "https://music.163.com/song?id=67467"
   }
 ]
