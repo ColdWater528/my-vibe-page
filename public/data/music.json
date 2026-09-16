@@ -7,13 +7,6 @@
     "url": "https://music.163.com/song?id=2036231782"
   },
   {
-    "name": "Love You Down",
-    "artist": "Offset",
-    "album": "KIARI",
-    "cover": "http://p4.music.126.net/YBP-UpIMSH1W-58BO1-s8A==/109951171912547232.jpg",
-    "url": "https://music.163.com/song?id=2738810229"
-  },
-  {
     "name": "Ghost Town",
     "artist": "Kanye West/PARTYNEXTDOOR",
     "album": "ye",
@@ -21,10 +14,17 @@
     "url": "https://music.163.com/song?id=570350028"
   },
   {
+    "name": "Love You Down",
+    "artist": "Offset",
+    "album": "KIARI",
+    "cover": "http://p3.music.126.net/YBP-UpIMSH1W-58BO1-s8A==/109951171912547232.jpg",
+    "url": "https://music.163.com/song?id=2738810229"
+  },
+  {
     "name": "失眠",
     "artist": "Suki刘舒妤",
     "album": "Ladies Night",
-    "cover": "http://p3.music.126.net/-ruDNWFD1mMTGMNmNPzUIg==/109951173355316164.jpg",
+    "cover": "http://p4.music.126.net/-ruDNWFD1mMTGMNmNPzUIg==/109951173355316164.jpg",
     "url": "https://music.163.com/song?id=273114"
   },
   {
@@ -33,6 +33,27 @@
     "album": "SWAG",
     "cover": "http://p4.music.126.net/KnF8pyIpQp_Kc_PjoFN5-g==/109951172010103985.jpg",
     "url": "https://music.163.com/song?id=2724714488"
+  },
+  {
+    "name": "热气球",
+    "artist": "黄淑惠",
+    "album": "情人日记",
+    "cover": "http://p4.music.126.net/xjOh3uc-xtTOiJjYl8kTcA==/109951171890561604.jpg",
+    "url": "https://music.163.com/song?id=239364"
+  },
+  {
+    "name": "Doing Time",
+    "artist": "Bazzi",
+    "album": "Doing Time",
+    "cover": "http://p4.music.126.net/0Td3IRaNnl6WL5yqWRrM-A==/109951170626213846.jpg",
+    "url": "https://music.163.com/song?id=2075600114"
+  },
+  {
+    "name": "圆",
+    "artist": "AGA",
+    "album": "Ginadoll",
+    "cover": "http://p3.music.126.net/c2VB_r9bD1iX99_FHk_R_w==/109951172903960689.jpg",
+    "url": "https://music.163.com/song?id=406475388"
   },
   {
     "name": "E85",
@@ -47,26 +68,5 @@
     "album": "Promo Only: Mainstream Radio, March 2009",
     "cover": "http://p3.music.126.net/gZdwUZdIF_jF_DHQ1HjVXQ==/2135251581170994.jpg",
     "url": "https://music.163.com/song?id=27158959"
-  },
-  {
-    "name": "Wake Up Mr. West",
-    "artist": "Kanye West",
-    "album": "Late Registration",
-    "cover": "http://p3.music.126.net/M4s782utwaMBIDmt0UOvEA==/109951170517268501.jpg",
-    "url": "https://music.163.com/song?id=18969082"
-  },
-  {
-    "name": "Lick",
-    "artist": "Offset",
-    "album": "FATHER OF 4",
-    "cover": "http://p3.music.126.net/fraI6hxQiYAMcFuqj8irag==/109951164704854207.jpg",
-    "url": "https://music.163.com/song?id=1347702308"
-  },
-  {
-    "name": "Departures〜あなたにおくるアイの歌〜",
-    "artist": "EGOIST",
-    "album": "Departures~あなたにおくるアイの歌~",
-    "cover": "http://p3.music.126.net/RU7zCEyeZMH7ZYk6xcm19w==/109951165946393227.jpg",
-    "url": "https://music.163.com/song?id=722928"
   }
 ]
