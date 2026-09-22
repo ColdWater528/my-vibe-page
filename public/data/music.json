@@ -3,7 +3,7 @@
     "name": "冷漠城市",
     "artist": "core",
     "album": "2022wasted",
-    "cover": "http://p3.music.126.net/oEQs4eSHy2F7rsqNLgEFIA==/109951173711148168.jpg",
+    "cover": "http://p4.music.126.net/oEQs4eSHy2F7rsqNLgEFIA==/109951173711148168.jpg",
     "url": "https://music.163.com/song?id=3417894681"
   },
   {
@@ -14,53 +14,25 @@
     "url": "https://music.163.com/song?id=2036231782"
   },
   {
-    "name": "打包",
-    "artist": "core",
-    "album": "2022wasted",
-    "cover": "http://p4.music.126.net/oEQs4eSHy2F7rsqNLgEFIA==/109951173711148168.jpg",
-    "url": "https://music.163.com/song?id=3417891711"
-  },
-  {
     "name": "Love You Down",
     "artist": "Offset",
     "album": "KIARI",
-    "cover": "http://p4.music.126.net/YBP-UpIMSH1W-58BO1-s8A==/109951171912547232.jpg",
+    "cover": "http://p3.music.126.net/YBP-UpIMSH1W-58BO1-s8A==/109951171912547232.jpg",
     "url": "https://music.163.com/song?id=2738810229"
+  },
+  {
+    "name": "打包",
+    "artist": "core",
+    "album": "2022wasted",
+    "cover": "http://p3.music.126.net/oEQs4eSHy2F7rsqNLgEFIA==/109951173711148168.jpg",
+    "url": "https://music.163.com/song?id=3417891711"
   },
   {
     "name": "热气球",
     "artist": "黄淑惠",
     "album": "情人日记",
-    "cover": "http://p4.music.126.net/xjOh3uc-xtTOiJjYl8kTcA==/109951171890561604.jpg",
+    "cover": "http://p3.music.126.net/xjOh3uc-xtTOiJjYl8kTcA==/109951171890561604.jpg",
     "url": "https://music.163.com/song?id=239364"
-  },
-  {
-    "name": "我在乎",
-    "artist": "core",
-    "album": "2022wasted",
-    "cover": "http://p4.music.126.net/oEQs4eSHy2F7rsqNLgEFIA==/109951173711148168.jpg",
-    "url": "https://music.163.com/song?id=3417884323"
-  },
-  {
-    "name": "你没看到的",
-    "artist": "core",
-    "album": "2022wasted",
-    "cover": "http://p3.music.126.net/oEQs4eSHy2F7rsqNLgEFIA==/109951173711148168.jpg",
-    "url": "https://music.163.com/song?id=3417851708"
-  },
-  {
-    "name": "BLAME ON ME",
-    "artist": "Gummy B",
-    "album": "更好",
-    "cover": "http://p3.music.126.net/hBfYXsGBIf0JoCn8c61cQQ==/109951172092165022.jpg",
-    "url": "https://music.163.com/song?id=2749783753"
-  },
-  {
-    "name": "Outro",
-    "artist": "张方钊",
-    "album": "钱专",
-    "cover": "http://p3.music.126.net/0jVyAB-cJlM6ixvwbCrALQ==/109951173955320106.jpg",
-    "url": "https://music.163.com/song?id=2740498687"
   },
   {
     "name": "鲜花",
@@ -68,5 +40,33 @@
     "album": "鲜花",
     "cover": "http://p4.music.126.net/sOVQYvAwK8rGHrwd-wM1Og==/109951173409075892.jpg",
     "url": "https://music.163.com/song?id=2086327879"
+  },
+  {
+    "name": "混蛋离开",
+    "artist": "张方钊",
+    "album": "蛋专",
+    "cover": "http://p4.music.126.net/zHRzldNmi5I8_2O9m1wBPw==/109951173951926165.jpg",
+    "url": "https://music.163.com/song?id=3436814125"
+  },
+  {
+    "name": "今非昔比",
+    "artist": "张方钊",
+    "album": "蛋专",
+    "cover": "http://p4.music.126.net/zHRzldNmi5I8_2O9m1wBPw==/109951173951926165.jpg",
+    "url": "https://music.163.com/song?id=3436809273"
+  },
+  {
+    "name": "21.7.25",
+    "artist": "core",
+    "album": "2022wasted",
+    "cover": "http://p3.music.126.net/oEQs4eSHy2F7rsqNLgEFIA==/109951173711148168.jpg",
+    "url": "https://music.163.com/song?id=3417899574"
+  },
+  {
+    "name": "我在乎",
+    "artist": "core",
+    "album": "2022wasted",
+    "cover": "http://p4.music.126.net/oEQs4eSHy2F7rsqNLgEFIA==/109951173711148168.jpg",
+    "url": "https://music.163.com/song?id=3417884323"
   }
 ]
