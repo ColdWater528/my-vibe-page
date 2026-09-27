@@ -21,13 +21,6 @@
     "url": "https://music.163.com/song?id=3436814125"
   },
   {
-    "name": "今非昔比",
-    "artist": "张方钊",
-    "album": "蛋专",
-    "cover": "http://p3.music.126.net/zHRzldNmi5I8_2O9m1wBPw==/109951173951926165.jpg",
-    "url": "https://music.163.com/song?id=3436809273"
-  },
-  {
     "name": "那你嘞",
     "artist": "张方钊",
     "album": "哥们废了",
@@ -35,11 +28,39 @@
     "url": "https://music.163.com/song?id=2036231782"
   },
   {
+    "name": "今非昔比",
+    "artist": "张方钊",
+    "album": "蛋专",
+    "cover": "http://p3.music.126.net/zHRzldNmi5I8_2O9m1wBPw==/109951173951926165.jpg",
+    "url": "https://music.163.com/song?id=3436809273"
+  },
+  {
     "name": "倒带一辈子",
     "artist": "张方钊",
     "album": "答应我会幸福",
-    "cover": "http://p4.music.126.net/oX5o-Jww_qAj2IjnCi_aSQ==/109951173999073878.jpg",
+    "cover": "http://p3.music.126.net/oX5o-Jww_qAj2IjnCi_aSQ==/109951173999073878.jpg",
     "url": "https://music.163.com/song?id=1967744519"
+  },
+  {
+    "name": "如果我变成回忆",
+    "artist": "Tank",
+    "album": "我爱幸运七 电视原声带",
+    "cover": "http://p3.music.126.net/x8GMW17edjzlPB4zBn_yzQ==/109951163167659814.jpg",
+    "url": "https://music.163.com/song?id=27676908"
+  },
+  {
+    "name": "You(=I)",
+    "artist": "脸红的思春期",
+    "album": "Full Album RED PLANET",
+    "cover": "http://p3.music.126.net/HkE3O19axEW__ufb7D-rkw==/109951163187400629.jpg",
+    "url": "https://music.163.com/song?id=427595458"
+  },
+  {
+    "name": "飛黃騰達",
+    "artist": "奇玛奇muuuch",
+    "album": "张方钊",
+    "cover": "http://p3.music.126.net/Mx1yeWKnRWWgfJLFZzfYow==/109951173978288683.jpg",
+    "url": "https://music.163.com/song?id=3435629829"
   },
   {
     "name": "21.7.25",
@@ -47,26 +68,5 @@
     "album": "2022wasted",
     "cover": "http://p3.music.126.net/oEQs4eSHy2F7rsqNLgEFIA==/109951173711148168.jpg",
     "url": "https://music.163.com/song?id=3417899574"
-  },
-  {
-    "name": "如果我变成回忆",
-    "artist": "Tank",
-    "album": "我爱幸运七 电视原声带",
-    "cover": "http://p4.music.126.net/x8GMW17edjzlPB4zBn_yzQ==/109951163167659814.jpg",
-    "url": "https://music.163.com/song?id=27676908"
-  },
-  {
-    "name": "You(=I)",
-    "artist": "脸红的思春期",
-    "album": "Full Album RED PLANET",
-    "cover": "http://p4.music.126.net/HkE3O19axEW__ufb7D-rkw==/109951163187400629.jpg",
-    "url": "https://music.163.com/song?id=427595458"
-  },
-  {
-    "name": "大人小人",
-    "artist": "张方钊/jackzebra",
-    "album": "蛋专",
-    "cover": "http://p4.music.126.net/zHRzldNmi5I8_2O9m1wBPw==/109951173951926165.jpg",
-    "url": "https://music.163.com/song?id=3436809538"
   }
 ]
