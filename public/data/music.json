@@ -3,22 +3,15 @@
     "name": "番茄花",
     "artist": "尹伟泽/黄格雷",
     "album": "番茄花",
-    "cover": "http://p3.music.126.net/HSwv-uJMrVDuM54XwOYB3g==/109951171944476829.jpg",
+    "cover": "http://p4.music.126.net/HSwv-uJMrVDuM54XwOYB3g==/109951171944476829.jpg",
     "url": "https://music.163.com/song?id=2740993360"
   },
   {
     "name": "BDE (Best Day Ever)",
     "artist": "Mac Miller",
     "album": "BDE (Best Day Ever)",
-    "cover": "http://p3.music.126.net/_xEo2rMu5EF13Kg48NDO-w==/109951163510175120.jpg",
+    "cover": "http://p4.music.126.net/_xEo2rMu5EF13Kg48NDO-w==/109951163510175120.jpg",
     "url": "https://music.163.com/song?id=1304741875"
-  },
-  {
-    "name": "不純粹",
-    "artist": "奇玛奇muuuch",
-    "album": "LSGC四口",
-    "cover": "http://p3.music.126.net/QgE281p8f15ffSK-65ok1Q==/109951173882895316.jpg",
-    "url": "https://music.163.com/song?id=3433927799"
   },
   {
     "name": "無盡的雨",
@@ -35,6 +28,20 @@
     "url": "https://music.163.com/song?id=3390198713"
   },
   {
+    "name": "不純粹",
+    "artist": "奇玛奇muuuch",
+    "album": "LSGC四口",
+    "cover": "http://p4.music.126.net/QgE281p8f15ffSK-65ok1Q==/109951173882895316.jpg",
+    "url": "https://music.163.com/song?id=3433927799"
+  },
+  {
+    "name": "下头",
+    "artist": "waitmemoretime/河南痛苦学讲师",
+    "album": "2022 wasted-河南说唱之神",
+    "cover": "http://p3.music.126.net/1Rr43JSi0JnXswuHO8GOTQ==/109951173588014121.jpg",
+    "url": "https://music.163.com/song?id=3408403120"
+  },
+  {
     "name": "混蛋离开",
     "artist": "张方钊",
     "album": "蛋专",
@@ -45,28 +52,21 @@
     "name": "今非昔比",
     "artist": "张方钊",
     "album": "蛋专",
-    "cover": "http://p3.music.126.net/zHRzldNmi5I8_2O9m1wBPw==/109951173951926165.jpg",
+    "cover": "http://p4.music.126.net/zHRzldNmi5I8_2O9m1wBPw==/109951173951926165.jpg",
     "url": "https://music.163.com/song?id=3436809273"
   },
   {
     "name": "飛黃騰達",
     "artist": "奇玛奇muuuch",
     "album": "张方钊",
-    "cover": "http://p3.music.126.net/AGB0BNvLjQnGzV3UoE_9gQ==/109951174018578995.jpg",
+    "cover": "http://p4.music.126.net/AGB0BNvLjQnGzV3UoE_9gQ==/109951174018578995.jpg",
     "url": "https://music.163.com/song?id=3435629829"
   },
   {
-    "name": "下头",
-    "artist": "waitmemoretime/河南痛苦学讲师",
-    "album": "2022 wasted-河南说唱之神",
-    "cover": "http://p4.music.126.net/1Rr43JSi0JnXswuHO8GOTQ==/109951173588014121.jpg",
-    "url": "https://music.163.com/song?id=3408403120"
-  },
-  {
-    "name": "如果我变成回忆",
-    "artist": "Tank",
-    "album": "我爱幸运七 电视原声带",
-    "cover": "http://p3.music.126.net/x8GMW17edjzlPB4zBn_yzQ==/109951163167659814.jpg",
-    "url": "https://music.163.com/song?id=27676908"
+    "name": "21.7.25",
+    "artist": "core",
+    "album": "2022wasted",
+    "cover": "http://p4.music.126.net/oEQs4eSHy2F7rsqNLgEFIA==/109951173711148168.jpg",
+    "url": "https://music.163.com/song?id=3417899574"
   }
 ]
