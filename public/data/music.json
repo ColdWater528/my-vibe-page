@@ -3,14 +3,14 @@
     "name": "比天高",
     "artist": "张方钊/王豆",
     "album": "蛋专",
-    "cover": "http://p3.music.126.net/zHRzldNmi5I8_2O9m1wBPw==/109951173951926165.jpg",
+    "cover": "http://p4.music.126.net/zHRzldNmi5I8_2O9m1wBPw==/109951173951926165.jpg",
     "url": "https://music.163.com/song?id=3436814096"
   },
   {
     "name": "若即若离",
     "artist": "张方钊",
     "album": "蛋专",
-    "cover": "http://p3.music.126.net/zHRzldNmi5I8_2O9m1wBPw==/109951173951926165.jpg",
+    "cover": "http://p4.music.126.net/zHRzldNmi5I8_2O9m1wBPw==/109951173951926165.jpg",
     "url": "https://music.163.com/song?id=3436814032"
   },
   {
@@ -31,7 +31,7 @@
     "name": "Young Lost Love",
     "artist": "Appleby",
     "album": "Young Lost Love",
-    "cover": "http://p4.music.126.net/ejt-bVGWQSD6pLuFc4mA5A==/109951164880046041.jpg",
+    "cover": "http://p3.music.126.net/ejt-bVGWQSD6pLuFc4mA5A==/109951164880046041.jpg",
     "url": "https://music.163.com/song?id=1336866262"
   },
   {
@@ -42,17 +42,24 @@
     "url": "https://music.163.com/song?id=3390198713"
   },
   {
+    "name": "Without You",
+    "artist": "Appleby",
+    "album": "Almost Okay",
+    "cover": "http://p4.music.126.net/6Qnzlldfq7yyoT4BW4IWnA==/109951171978915235.jpg",
+    "url": "https://music.163.com/song?id=2743659999"
+  },
+  {
     "name": "番茄花",
     "artist": "尹伟泽/黄格雷",
     "album": "番茄花",
-    "cover": "http://p3.music.126.net/HSwv-uJMrVDuM54XwOYB3g==/109951171944476829.jpg",
+    "cover": "http://p4.music.126.net/HSwv-uJMrVDuM54XwOYB3g==/109951171944476829.jpg",
     "url": "https://music.163.com/song?id=2740993360"
   },
   {
     "name": "BDE (Best Day Ever)",
     "artist": "Mac Miller",
     "album": "BDE (Best Day Ever)",
-    "cover": "http://p3.music.126.net/_xEo2rMu5EF13Kg48NDO-w==/109951163510175120.jpg",
+    "cover": "http://p4.music.126.net/_xEo2rMu5EF13Kg48NDO-w==/109951163510175120.jpg",
     "url": "https://music.163.com/song?id=1304741875"
   },
   {
@@ -61,12 +68,5 @@
     "album": "蛋专",
     "cover": "http://p3.music.126.net/zHRzldNmi5I8_2O9m1wBPw==/109951173951926165.jpg",
     "url": "https://music.163.com/song?id=3436809273"
-  },
-  {
-    "name": "無盡的雨",
-    "artist": "奇玛奇muuuch",
-    "album": "LSGC四口",
-    "cover": "http://p3.music.126.net/QgE281p8f15ffSK-65ok1Q==/109951173882895316.jpg",
-    "url": "https://music.163.com/song?id=3433841699"
   }
 ]
